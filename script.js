@@ -1,5 +1,5 @@
  // Contador de tempo
-  const dataInicial = new Date("2025-05-10T19:00:00");
+  const dataInicial = new Date("2023-09-11T19:00:00");
   const slide = document.getElementById('slide');
 
   setInterval(() => {
